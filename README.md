@@ -1,0 +1,1 @@
+# AutoMarkt Next.js Projekt – Anleitung folgt
